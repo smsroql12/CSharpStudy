@@ -1,0 +1,5 @@
+C:\Users\smsro\source\repos\CSharpTraning\Standard\bin\Debug\Standard.exe
+C:\Users\smsro\source\repos\CSharpTraning\Standard\bin\Debug\Standard.pdb
+C:\Users\smsro\source\repos\CSharpTraning\Standard\obj\Debug\Standard.csproj.CoreCompileInputs.cache
+C:\Users\smsro\source\repos\CSharpTraning\Standard\obj\Debug\Standard.exe
+C:\Users\smsro\source\repos\CSharpTraning\Standard\obj\Debug\Standard.pdb
