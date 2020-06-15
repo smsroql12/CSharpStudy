@@ -1,0 +1,5 @@
+C:\Users\smsro\source\repos\CSharpTraning\If-Switch\bin\Debug\If-Switch.exe
+C:\Users\smsro\source\repos\CSharpTraning\If-Switch\bin\Debug\If-Switch.pdb
+C:\Users\smsro\source\repos\CSharpTraning\If-Switch\obj\Debug\If-Switch.csproj.CoreCompileInputs.cache
+C:\Users\smsro\source\repos\CSharpTraning\If-Switch\obj\Debug\If-Switch.exe
+C:\Users\smsro\source\repos\CSharpTraning\If-Switch\obj\Debug\If-Switch.pdb
