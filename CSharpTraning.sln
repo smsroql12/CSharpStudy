@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standard", "Standard\Standa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Switch", "If-Switch\If-Switch.csproj", "{74D2B0BA-C50F-467E-8701-8E65AA46B681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{E248C21A-C2CF-45A9-9AA4-AD2E2BB94057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74D2B0BA-C50F-467E-8701-8E65AA46B681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D2B0BA-C50F-467E-8701-8E65AA46B681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D2B0BA-C50F-467E-8701-8E65AA46B681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E248C21A-C2CF-45A9-9AA4-AD2E2BB94057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E248C21A-C2CF-45A9-9AA4-AD2E2BB94057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E248C21A-C2CF-45A9-9AA4-AD2E2BB94057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E248C21A-C2CF-45A9-9AA4-AD2E2BB94057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

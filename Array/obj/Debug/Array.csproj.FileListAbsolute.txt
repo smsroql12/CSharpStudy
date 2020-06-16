@@ -1,0 +1,6 @@
+C:\Users\smsro\source\repos\CSharpTraning\Array\bin\Debug\Array.exe
+C:\Users\smsro\source\repos\CSharpTraning\Array\bin\Debug\Array.pdb
+C:\Users\smsro\source\repos\CSharpTraning\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\smsro\source\repos\CSharpTraning\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\smsro\source\repos\CSharpTraning\Array\obj\Debug\Array.exe
+C:\Users\smsro\source\repos\CSharpTraning\Array\obj\Debug\Array.pdb
