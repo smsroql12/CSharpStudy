@@ -25,7 +25,7 @@ namespace Array
 
             int[] array3;
             array3 = new int[] { 1, 3, 5, 7, 9 };   // OK
-            //array3 = {1, 3, 5, 7, 9};   // Error
+            //array3 = {1, 3, 5, 7, 9};   // Error. (New 연산자를 사용 해 줘야 함.)
 
 
             //2차원 배열

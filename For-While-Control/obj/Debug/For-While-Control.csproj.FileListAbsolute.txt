@@ -1,0 +1,6 @@
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\bin\Debug\For-While-Control.exe
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\bin\Debug\For-While-Control.pdb
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\obj\Debug\For-While-Control.csprojAssemblyReference.cache
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\obj\Debug\For-While-Control.csproj.CoreCompileInputs.cache
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\obj\Debug\For-While-Control.exe
+C:\Users\smsro\source\repos\CSharpTraning\For-While-Control\obj\Debug\For-While-Control.pdb
