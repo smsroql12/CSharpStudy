@@ -25,6 +25,22 @@ namespace Method
             return result;
         }
 
+        //call by value
+        static void cPlus(int a)
+        {
+            a += 323;
+        }
+        //call by reference
+        static void cPlus(ref int a)
+        {
+            a += 814;
+        }
+
+        static public void init(out int num1)
+        {
+            num1 = 100;
+        }
+
         static void Main(string[] args)
         {
             //Static 함수 사용
@@ -37,6 +53,10 @@ namespace Method
 
             float fPlus = oPlus(1.4f, 2.423f);
             Console.WriteLine(fPlus);
+
+            int num = 100;
+            init(out num);
+            Console.WriteLine("{0}", num);
         }
 
     }
