@@ -1,0 +1,6 @@
+C:\Users\smsro\source\repos\CSharpTraning\Method\bin\Debug\Method.exe
+C:\Users\smsro\source\repos\CSharpTraning\Method\bin\Debug\Method.pdb
+C:\Users\smsro\source\repos\CSharpTraning\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\smsro\source\repos\CSharpTraning\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\smsro\source\repos\CSharpTraning\Method\obj\Debug\Method.exe
+C:\Users\smsro\source\repos\CSharpTraning\Method\obj\Debug\Method.pdb
