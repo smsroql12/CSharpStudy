@@ -41,6 +41,16 @@ namespace Method
             num1 = 100;
         }
 
+        static void Swap(ref int x, ref int y)
+        {
+            int temp = x;
+
+            x = y;
+
+            y = temp;
+        }
+
+
         static void Main(string[] args)
         {
             //Static 함수 사용
@@ -57,6 +67,13 @@ namespace Method
             int num = 100;
             init(out num);
             Console.WriteLine("{0}", num);
+
+            int x = 10;
+            int y = 5;
+
+            Swap(ref x, ref y);
+            Console.WriteLine("x:{0},y:{1}", x, y);
+
         }
 
     }
