@@ -29,8 +29,11 @@ namespace Class
             Console.WriteLine("이름 : {0}, 체력 : {1}, 공격력 : {2}", newHero.sName, newHero.nHP, newHero.nPower);
             newHero.Attack("허수아비");
 
-            myclass mycat = new myclass(3, "Cat");
+            myclass mycat = new myclass(3, "Cat1");
             mycat.meow();
+
+            myclass mycat2 = new myclass(5, "Cat2");
+            mycat2.meow();
         }
     }
 }

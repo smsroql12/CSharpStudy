@@ -19,5 +19,9 @@ namespace Class
         {
             Console.WriteLine(name + "(" + age + ")" + " : Moew~");
         }
+        ~myclass()
+        {
+            Console.WriteLine(name + " 사라짐(소멸)");
+        }
     }
 }
