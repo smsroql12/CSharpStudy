@@ -50,6 +50,14 @@ namespace Method
             y = temp;
         }
 
+        static void Plus(params object[] obj)
+        {
+            for (int i = 0; i < obj.Length; i++)
+            {
+                Console.Write("obj[{0}] : {1}", i, obj[i]);
+                Console.WriteLine();
+            }
+        }
 
         static void Main(string[] args)
         {
@@ -73,6 +81,9 @@ namespace Method
 
             Swap(ref x, ref y);
             Console.WriteLine("x:{0},y:{1}", x, y);
+
+            object[] objArray = { 777, 888, 'k', "test" };
+            Plus(objArray);
 
         }
 
